@@ -5,7 +5,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f4f4f9;
   color: #333;
-  background-color: #72bfde;
+  background-color: #FFB6C1;
 }
 
 .container {
@@ -23,7 +23,7 @@ body {
 }
 
 .semester {
-  background-color: #de72c2;
+  background-color: #DB7093;
   border-radius: 8px;
   padding: 1.5rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
